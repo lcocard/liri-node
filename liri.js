@@ -32,12 +32,23 @@ function concert(value) {
             for (var i = 0; i < response.data.length; i++) {
                 var datetime = response.data[i].datetime;
                 var concertResults =
-                    "--------------------------------------------------------------------" +
+                    "\n-----------------------------------------------------------------------" +
+                    "\nBand: " + value +
                     "\nVenue Name: " + response.data[i].venue.name +
                     "\nVenue Location: " + response.data[i].venue.city +
                     "\nDate of the Event: " + moment(datetime).format("MM/DD/YYYY");
 
                 console.log(concertResults);
+                fs.appendFile("concert-this.txt", concertResults, function (err) {
+                    // If an error was experienced we will log it.
+                    if (err) {
+                        console.log(err);
+                    }
+                    // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+                    else {
+                        console.log("Content Added!");
+                    }
+                });
             }
         })
         .catch(function (error) {
@@ -55,12 +66,22 @@ function spot(value) {
         .then(function (response) {
             for (var i = 0; i < 5; i++) {
                 var spotifyResults =
-                    "--------------------------------------------------------------------" +
+                    "\n-----------------------------------------------------------------------" +
                     "\nArtist(s): " + response.tracks.items[i].artists[0].name +
                     "\nSong Name: " + response.tracks.items[i].name +
                     "\nPreview Link: " + response.tracks.items[i].preview_url +
                     "\nAlbum Name: " + response.tracks.items[i].album.name;
                 console.log(spotifyResults);
+                fs.appendFile("spotify-this-song.txt", spotifyResults, function (err) {
+                    // If an error was experienced we will log it.
+                    if (err) {
+                        console.log(err);
+                    }
+                    // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+                    else {
+                        console.log("Content Added!");
+                    }
+                });
             }
         })
         .catch(function (err) {
@@ -76,7 +97,7 @@ function omdb(value) {
     axios.get("https://www.omdbapi.com/?t=" + value + "&y=&plot=long&apikey=trilogy")
         .then(function (response) {
             var movieResults =
-                "--------------------------------------------------------------------" +
+                "\n-----------------------------------------------------------------------" +
                 "\nMovie Title: " + response.data.Title +
                 "\nYear of Release: " + response.data.Year +
                 "\nIMDB Rating: " + response.data.imdbRating +
@@ -86,6 +107,16 @@ function omdb(value) {
                 "\nPlot: " + response.data.Plot +
                 "\nActors/Actresses: " + response.data.Actors;
             console.log(movieResults);
+            fs.appendFile("movie-this.txt", movieResults, function (err) {
+                // If an error was experienced we will log it.
+                if (err) {
+                    console.log(err);
+                }
+                // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+                else {
+                    console.log("Content Added!");
+                }
+            });
         })
         .catch(function (error) {
             //console.log(error);

@@ -1,0 +1,116 @@
+
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Comerica Theatre
+Venue Location: Phoenix
+Date of the Event: 08/20/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: San Diego Civic Theatre
+Venue Location: San Diego
+Date of the Event: 08/23/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Greek Theatre
+Venue Location: Los Angeles
+Date of the Event: 08/22/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: DCU Center
+Venue Location: Worcester
+Date of the Event: 10/04/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 10/05/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Palace Theatre
+Venue Location: Albany
+Date of the Event: 10/06/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: College Street Music Hall
+Venue Location: New Haven
+Date of the Event: 10/08/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Harvester Performance Center
+Venue Location: Rocky Mount
+Date of the Event: 10/10/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: The National
+Venue Location: Richmond
+Date of the Event: 10/11/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: The National
+Venue Location: Richmond
+Date of the Event: 10/12/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Greenfield Lake Amphitheater
+Venue Location: Wilmington
+Date of the Event: 10/13/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Whitaker Center for Science & the Arts
+Venue Location: Harrisburg
+Date of the Event: 10/15/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: The Danforth Music Hall
+Venue Location: Toronto
+Date of the Event: 10/17/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Asbury Hall Babeville
+Venue Location: Buffalo
+Date of the Event: 10/18/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Live On The Green
+Venue Location: Nashville
+Date of the Event: 09/01/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Santa Barbara Bowl
+Venue Location: Santa Barbara
+Date of the Event: 08/24/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Lebanon Opera House
+Venue Location: Lebanon
+Date of the Event: 10/02/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Smith Opera House
+Venue Location: Geneva
+Date of the Event: 10/19/2019
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Hard Rock Hotel Riviera Maya
+Venue Location: Puerto Alvaro Obregon
+Date of the Event: 01/29/2020
+--------------------------------------------------------------------
+Band: Lake Street Dive
+Venue Name: Cayamo Cruise
+Venue Location: Miami
+Date of the Event: 02/03/2020
+--------------------------------------------------------------------
+Band: Rolling Stones
+Venue Name: State Farm Stadium
+Venue Location: Glendale
+Date of the Event: 08/26/2019
+--------------------------------------------------------------------
+Band: Rolling Stones
+Venue Name: Rose Bowl Stadium
+Venue Location: Pasadena
+Date of the Event: 08/22/2019
+--------------------------------------------------------------------
+Band: Rolling Stones
+Venue Name: Hard Rock Stadium
+Venue Location: Miami Gardens
+Date of the Event: 08/31/2019
