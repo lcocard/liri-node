@@ -62,4 +62,8 @@
 
 ### **BONUS**
 
-In addition to logging the data to the terminal/bash window, the data will be output to a .txt file.
+In addition to logging the data to the terminal/bash window, the data will be output to a .txt file:
+
+- concert-this.txt
+- spotify-this-song.txt
+- movie-this.txt
