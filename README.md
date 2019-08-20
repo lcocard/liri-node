@@ -5,13 +5,14 @@
 ### Setup :house:
 
 - Clone the repository
+- [Node](https://nodejs.org/en/) - Node.JS
 - Run npm install
   **Install the following packages:**
-- Node-Spotify-API
-- Axios - You'll use Axios to grab data from the OMDB API and the Bands In Town API
-- Moment
-- DotEnv
-- FS
+- [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) - Node-Spotify-API
+- [Axios](https://www.npmjs.com/package/axios) - Axios - You'll use Axios to grab data from the OMDB API and the Bands In Town API
+- [Moment](https://momentjs.com/) - Moment
+- [dotenv](https://www.npmjs.com/package/dotenv) - DotEnv
+- [file-system](https://www.npmjs.com/package/file-system) - File-System
 
 ### Environment :earth_americas:
 
