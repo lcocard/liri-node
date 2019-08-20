@@ -26,7 +26,7 @@
 
 ### What Each Command Should Do
 
-1. **node liri.js concert-this <artist/band name here>**
+1. **node liri.js concert-this 'artist/band name here'**
 
    This will search the Bands in Town Artist Events API for an artist and render the following information about each event to the terminal:
 
@@ -34,7 +34,7 @@
 - Venue location
 - Date of the Event
 
-2. **node liri.js spotify-this-song <song name here>**
+2. **node liri.js spotify-this-song 'song name here'**
 
    This will show the following information about the song in your terminal/bash window
 
@@ -43,7 +43,7 @@
 - A preview link of the song from Spotify
 - The album that the song is from
 
-3. **node liri.js movie-this <movie name here>**
+3. **node liri.js movie-this 'movie name here'**
 
    This will output the following information to your terminal/bash window:
 
