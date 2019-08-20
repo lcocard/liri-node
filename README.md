@@ -71,6 +71,6 @@
 
 In addition to logging the data to the terminal/bash window, the data will be output to a .txt file:
 
-- ![concert-this.txt](concert-this.txt) concert-this.txt
-- ![spotify-this-song.txt](spotify-this-song.txt) spotify-this-song.txt
-- ![movie-this.txt](movie-this.txt) movie-this.txt
+- ![Concert-This](concert-this.txt) - concert-this.txt
+- ![Spotify-This-Song](spotify-this-song.txt) - spotify-this-song.txt
+- ![Movie-This](movie-this.txt) - movie-this.txt
