@@ -49,3 +49,53 @@ Artist(s): The Beatles
 Song Name: Let It Be - Remastered 2009
 Preview Link: null
 Album Name: Let It Be (Remastered)
+-----------------------------------------------------------------------
+Artist(s): The Beatles
+Song Name: Let It Be - Remastered 2009
+Preview Link: null
+Album Name: Let It Be (Remastered)
+-----------------------------------------------------------------------
+Artist(s): The Beatles
+Song Name: Across The Universe - Remastered 2009
+Preview Link: null
+Album Name: Let It Be (Remastered)
+-----------------------------------------------------------------------
+Artist(s): Ray LaMontagne
+Song Name: Let It Be Me
+Preview Link: https://p.scdn.co/mp3-preview/833e829e1bd6c2ca8d987d8b2a8b31df236f8aaa?cid=0d08304b4d264a27a1a6e213e3cfd80a
+Album Name: Gossip In The Grain
+-----------------------------------------------------------------------
+Artist(s): The Beatles
+Song Name: Get Back - Remastered 2009
+Preview Link: null
+Album Name: Let It Be (Remastered)
+-----------------------------------------------------------------------
+Artist(s): David Guetta
+Song Name: Let It Be Me (feat. Ava Max)
+Preview Link: https://p.scdn.co/mp3-preview/a821cf43b8b6d1f674cb3e854fc53f4ea00efe14?cid=0d08304b4d264a27a1a6e213e3cfd80a
+Album Name: 7
+-----------------------------------------------------------------------
+Artist(s): Bob Dylan
+Song Name: Queen Jane Approximately
+Preview Link: https://p.scdn.co/mp3-preview/70b67b9ba766e011352b0fcde928f0d5073df38d?cid=0d08304b4d264a27a1a6e213e3cfd80a
+Album Name: Highway 61 Revisited
+-----------------------------------------------------------------------
+Artist(s): The Doors
+Song Name: Queen of the Highway
+Preview Link: https://p.scdn.co/mp3-preview/f3ab25cb8e3453d970f49b7b204dac5c9dd2eed6?cid=0d08304b4d264a27a1a6e213e3cfd80a
+Album Name: Morrison Hotel
+-----------------------------------------------------------------------
+Artist(s): Nikki Lane
+Song Name: Send The Sun
+Preview Link: https://p.scdn.co/mp3-preview/c1f85471ea3d3787fc0775e0e13d1c28ef716e94?cid=0d08304b4d264a27a1a6e213e3cfd80a
+Album Name: Highway Queen
+-----------------------------------------------------------------------
+Artist(s): Chris Cornell
+Song Name: I Am The Highway - Live At Queen Elizabeth Theatre, Toronto, ON/2011
+Preview Link: null
+Album Name: Songbook
+-----------------------------------------------------------------------
+Artist(s): Nikki Lane
+Song Name: Highway Queen
+Preview Link: https://p.scdn.co/mp3-preview/1a0a0bfac114c6a34eee6a36efa076b122827fc6?cid=0d08304b4d264a27a1a6e213e3cfd80a
+Album Name: Highway Queen

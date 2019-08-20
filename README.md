@@ -34,6 +34,8 @@
 - Venue location
 - Date of the Event
 
+![Concert-This](./images/concert-this.png)
+
 2. **node liri.js spotify-this-song 'song name here'**
 
    This will show the following information about the song in your terminal/bash window
@@ -42,6 +44,8 @@
 - The song's name
 - A preview link of the song from Spotify
 - The album that the song is from
+
+![Spotify-This-Song](./images/spotify-this.png)
 
 3. **node liri.js movie-this 'movie name here'**
 
@@ -55,6 +59,8 @@
 - Language of the movie.
 - Plot of the movie.
 - Actors in the movie.
+
+![Movie-This](./images/movie-this.png)
 
 4. **node liri.js do-what-it-says**
 
