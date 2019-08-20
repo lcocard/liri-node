@@ -2,7 +2,7 @@
 
 ## LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-### Setup
+### Setup :house:
 
 - Clone the repository
 - Run npm install
@@ -13,16 +13,16 @@
 - DotEnv
 - FS
 
-### Environment
+### Environment :earth_americas:
 
 - Create a .env file using the provided sample file.
 
 ### Liri can take in one of the following commands:
 
-- concert-this
-- spotify-this-song
-- movie-this
-- do-what-it-says
+- concert-this :guitar:
+- spotify-this-song :notes:
+- movie-this :movie_camera:
+- do-what-it-says :game_die:
 
 ### What Each Command Should Do
 
